@@ -1,4 +1,17 @@
 body {
-    width: 500;
-    margin: 0 auto;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #BBCCDD;
+}
+
+body {
+    width: 400px;
+    margin: 100px auto;
+}
+
+li {
+    text-align: center;
+    border-color: #333333;
+    background-color: #F68722;
+    margin: 20px;
 }
