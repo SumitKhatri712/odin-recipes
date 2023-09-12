@@ -5,7 +5,7 @@ body {
 }
 
 body {
-    width: 400px;
+    width: 500px;
     margin: 100px auto;
 }
 
@@ -14,4 +14,14 @@ li {
     border-color: #333333;
     background-color: #F68722;
     margin: 20px;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 80%;
 }
